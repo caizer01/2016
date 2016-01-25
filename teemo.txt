@@ -1,1 +1,4 @@
 mushroom
+http://rice9547.github.io/Git.Slide/#61
+ git remote add origin https://github.com/caizer01/2016.git
+ git push origin master
